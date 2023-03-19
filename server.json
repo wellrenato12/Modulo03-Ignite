@@ -1,36 +1,5 @@
 {
   "transactions": [
-    {
-      "id": 1,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2023-03-18T13:29:47.752Z"
-    },
-    {
-      "id": 2,
-      "description": "Hamburguer",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 2000,
-      "createdAt": "2023-01-18T13:29:47.752Z"
-    },
-    {
-      "description": "Água",
-      "price": 5,
-      "category": "bebida",
-      "type": "outcome",
-      "createdAt": "2023-03-18T18:38:17.201Z",
-      "id": 3
-    },
-    {
-      "description": "Água",
-      "price": 5,
-      "category": "bebida",
-      "type": "outcome",
-      "createdAt": "2023-03-18T18:52:33.183Z",
-      "id": 4
-    }
+    
   ]
 }
