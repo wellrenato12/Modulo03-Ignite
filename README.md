@@ -16,6 +16,7 @@
 <p>Context-API</p>
 <p>react-hook-form com zod</p>
 <p>useCallback e useMemo</p>
+<p>JSON.server</p>
 
 ### Status:
 <p>Finalizado</p>
